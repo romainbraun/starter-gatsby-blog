@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gatsby-plugin-image": "^3.13.0",
+    "gatsby-source-contentful": "^8.13.0"
+  }
+}
